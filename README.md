@@ -2,7 +2,7 @@
 
 I am Mohan Thilak, a Full Stack Developer with experience building applications with NodeJS, Java, and Go. I like building robust backend systems that follow clean architecture. I blog about my learnings on hashnode and also tweet my experiences once in a while, do give them a read when you're free :). I am a tech enthusiast who explores new technologies and applies them to my projects. Scroll down and find out more about me. 
 
-[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohanthilak&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)]
+![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohanthilak&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
 <!--
 **mohanthilak/mohanthilak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
