@@ -9,8 +9,8 @@ I am Mohan Thilak, a Full Stack Developer with experience building applications 
 
 ### Language :
 ![Java](https://img.shields.io/badge/-Java-70a7ff?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-lightgreen?style=flat-square&logo=javascript)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightgreen?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
